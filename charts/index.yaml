@@ -3,9 +3,9 @@ entries:
   apollo-portal:
   - apiVersion: v2
     appVersion: 1.7.0-SNAPSHOT
-    created: "2020-05-31T19:27:11.762398+08:00"
+    created: "2020-06-14T21:34:11.399747+08:00"
     description: A Helm chart for Apollo Portal
-    digest: c18541ed001f85db4255c139d2a6ce5f1f062d064d59cc51e72abd4928a619ef
+    digest: 927c354d7b955c0900376edfc63c831c5b4b63ac3a78629462da36bc931d0d93
     home: https://github.com/ctripcorp/apollo
     icon: https://raw.githubusercontent.com/ctripcorp/apollo/master/apollo-portal/src/main/resources/static/img/logo-simple.png
     maintainers:
@@ -20,9 +20,9 @@ entries:
   apollo-service:
   - apiVersion: v2
     appVersion: 1.7.0-SNAPSHOT
-    created: "2020-05-31T19:27:11.763135+08:00"
+    created: "2020-06-14T21:34:11.40067+08:00"
     description: A Helm chart for Apollo Config Service and Apollo Admin Service
-    digest: ef79e9c0c5b49277ec5a72aa40888c36bf77603bc6aec84a21e19815db8e2ec6
+    digest: 711201ff381a9d7eacc9c8a6fb106a2fb69be3358f08f395f2c42a1604f33eda
     home: https://github.com/ctripcorp/apollo
     icon: https://raw.githubusercontent.com/ctripcorp/apollo/master/apollo-portal/src/main/resources/static/img/logo-simple.png
     maintainers:
@@ -34,4 +34,4 @@ entries:
     urls:
     - apollo-service-0.1.0.tgz
     version: 0.1.0
-generated: "2020-05-31T19:27:11.759419+08:00"
+generated: "2020-06-14T21:34:11.398248+08:00"
